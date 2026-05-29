@@ -1,0 +1,35 @@
+[
+    {
+        "ID": "EVT1",
+        "Name": "testing",
+        "Organizer": "vinu",
+        "Start Date": "2025-03-15",
+        "Start Time": "09:00:00",
+        "End Date": "2025-04-04",
+        "End Time": "09:00:00",
+        "Users Registered": [
+            "applicant1",
+            "applicant1",
+            "applicant1",
+            "applicant1"
+        ],
+        "Capacity": 10,
+        "Seats Available": 6
+    },
+    {
+        "ID": "EVT2",
+        "Name": "hyrox",
+        "Organizer": "manas",
+        "Start Date": "2026-06-10",
+        "Start Time": "06:00",
+        "End Date": "2026-06-11",
+        "End Time": "10:00",
+        "Users Registered": [
+            "abcd",
+            "bcd"
+        ],
+        "Capacity": 18,
+        "Seats Available": 16,
+        "Seat Price": 1199
+    }
+]

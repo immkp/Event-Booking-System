@@ -1,0 +1,25 @@
+[
+    {
+        "Full Name": "applicant1",
+        "Email": "applicant@gmail.com",
+        "Password": "applicantv1"
+    },
+    {
+        "Full Name": "abcd",
+        "Email": "abcd@gmail.com",
+        "Password": "abcd@123",
+        "Wallet": 301
+    },
+    {
+        "Full Name": "bcd",
+        "Email": "bcd@gmail.com",
+        "Password": "bcd@123",
+        "Wallet": 1
+    },
+    {
+        "Full Name": "xyz",
+        "Email": "'xyz@mail.com",
+        "Password": "xyz@gmail.com",
+        "Wallet": 0
+    }
+]
